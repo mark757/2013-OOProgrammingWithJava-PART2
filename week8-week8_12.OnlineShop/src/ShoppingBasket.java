@@ -27,7 +27,6 @@ public class ShoppingBasket {
     public int price() {
         int sum = 0;
         for (Purchase i : baskets.values()) {
-            System.out.println(baskets.values());
             sum += i.price();
         }
         return sum;

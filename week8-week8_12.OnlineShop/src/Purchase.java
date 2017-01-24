@@ -2,9 +2,9 @@
  * Created by Mark on 1/22/2017.
  */
 public class Purchase {
-    String product;
-    int amount;
-    int unitPrice;
+    private String product;
+    private int amount;
+    private int unitPrice;
 
     public Purchase(String product, int amount, int unitPrice) {
         this.product = product;
