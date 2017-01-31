@@ -1,5 +1,4 @@
 public class Card implements Comparable<Card> {
-
     /*
      * These are static constant variables. These variables can be used inside and outside
      * of this class like, for example, Card.CLUBS

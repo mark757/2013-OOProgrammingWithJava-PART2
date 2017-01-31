@@ -16,6 +16,5 @@ public class SortAgainstSuitAndValue implements Comparator<Card> {
             return card1.getValue() - card2.getValue();
         }
         return card1.getSuit() - card2.getSuit();
-
     }
 }
