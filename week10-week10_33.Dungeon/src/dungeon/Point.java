@@ -17,6 +17,8 @@ public class Point {
         this.y = y;
     }
 
+
+
     protected int x(){
         return this.x;
     }

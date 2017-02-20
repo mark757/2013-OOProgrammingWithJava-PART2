@@ -42,9 +42,9 @@
 init:
 
 -deps-jar-init:
+   [delete] Deleting: E:\Mark\Documents\IdeaProjects\TMCProjects\2013-OOProgrammingWithJava-PART2\week10-week10_33.Dungeon\build\built-jar.properties
 
 deps-jar:
-    [mkdir] Created dir: E:\Mark\Documents\IdeaProjects\TMCProjects\2013-OOProgrammingWithJava-PART2\week10-week10_33.Dungeon\build
 
 -warn-already-built-jar:
 [propertyfile] Updating property file: E:\Mark\Documents\IdeaProjects\TMCProjects\2013-OOProgrammingWithJava-PART2\week10-week10_33.Dungeon\build\built-jar.properties
@@ -56,7 +56,6 @@ deps-jar:
 -verify-automatic-build:
 
 -pre-pre-compile:
-    [mkdir] Created dir: E:\Mark\Documents\IdeaProjects\TMCProjects\2013-OOProgrammingWithJava-PART2\week10-week10_33.Dungeon\build\classes
 
 -pre-compile:
 
@@ -65,6 +64,4 @@ deps-jar:
 -compile-depend:
 
 -do-compile:
-    [mkdir] Created dir: E:\Mark\Documents\IdeaProjects\TMCProjects\2013-OOProgrammingWithJava-PART2\week10-week10_33.Dungeon\build\empty
-    [mkdir] Created dir: E:\Mark\Documents\IdeaProjects\TMCProjects\2013-OOProgrammingWithJava-PART2\week10-week10_33.Dungeon\build\generated-sources\ap-source-output
     [javac] Compiling 6 source files to E:\Mark\Documents\IdeaProjects\TMCProjects\2013-OOProgrammingWithJava-PART2\week10-week10_33.Dungeon\build\classes

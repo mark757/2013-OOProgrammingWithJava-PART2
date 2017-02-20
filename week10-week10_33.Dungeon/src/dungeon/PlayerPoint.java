@@ -14,6 +14,11 @@ public class PlayerPoint extends Point {
         this.y = y;
     }
 
+    public void move(int x, int y){
+        this.x = x;
+        this.y = y;
+    }
+
     public int getXPosition(){
         return this.x;
     }
