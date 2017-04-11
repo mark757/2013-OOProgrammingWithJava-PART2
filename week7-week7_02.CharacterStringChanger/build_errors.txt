@@ -1,6 +1,0 @@
-
-BUILD FAILED
-E:\Mark\Documents\IdeaProjects\TMCProjects\2013-OOProgrammingWithJava-PART2\week7-week7_02.CharacterStringChanger\nbproject\build-impl.xml:603: The following error occurred while executing this line:
-E:\Mark\Documents\IdeaProjects\TMCProjects\2013-OOProgrammingWithJava-PART2\week7-week7_02.CharacterStringChanger\nbproject\build-impl.xml:245: Error running javac.exe compiler
-
-Total time: 0 seconds

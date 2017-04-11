@@ -1,6 +1,0 @@
-
-BUILD FAILED
-E:\Mark\Documents\IdeaProjects\TMCProjects\2013-OOProgrammingWithJava-PART2\week9-week9_17.FirstPackages\nbproject\build-impl.xml:915: The following error occurred while executing this line:
-E:\Mark\Documents\IdeaProjects\TMCProjects\2013-OOProgrammingWithJava-PART2\week9-week9_17.FirstPackages\nbproject\build-impl.xml:268: Error running javac.exe compiler
-
-Total time: 1 second
